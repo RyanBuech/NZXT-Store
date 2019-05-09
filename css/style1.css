@@ -1,0 +1,29 @@
+main { background-color: #3D3D3D; 
+          color: #FFFFFF;
+		  padding: 10px 20px; 
+		 display: block;
+		overflow: auto; }
+h1 {
+    color: #b200ff;
+    font-family: Arial, sans-serif;
+}
+h2 { color: #b200ff;
+    font-family: Arial, sans-serif; }
+p {
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+}
+
+body{ 
+		background-color: #3D3D3D;
+		font-family: Verdana, Arial, sans-serif;
+		color: #FFFFFF;
+	}
+		
+a {
+    color: #FFFFFF;
+}
+
+table{
+    color: #FFFFFF;
+}
